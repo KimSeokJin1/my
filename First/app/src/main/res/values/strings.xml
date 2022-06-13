@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Начать</string>
+    <string name="back">Назад</string>
+    <string name="textcontinue">Продолжить</string>
+    <string name="level1">Уровень 1</string>
+    <string name="level2">Уровень 2</string>
+    <string name="level3">Уровень 3</string>
+    <string name="level4">Уровень 4</string>
+    <string name="txt_gold">Gold:7777</string>
+    <string name="Dave">Dave</string>
+    <string name="back_to_shop">Магазин</string>
+    <string name="text_empty">Заголовок или содержание не заполнены!!!</string>
+    <string name="saved">Coхранено</string>
+    <string name="tools">Выбoр</string>
+    <string name="Add">Добавить</string>
+    <string name="Enter">Ввод</string>
+    <string name="Reset">Удалить</string>
+    <string name="update">Удалить</string>
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="leveltext0">Ноль</string>
+    <string name="levetext1">Один</string>
+    <string name="leveltext2">Два</string>
+    <string name="leveltext3">Три</string>
+    <string name="leveltext4">Четыре</string>
+    <string name="leveltext5">Пять</string>
+    <string name="leveltext6">Шесть</string>
+    <string name="leveltext7">Семь</string>
+    <string name="leveltext8">Восемь</string>
+    <string name="leveltext9">Девять</string>
+//_________________________________________________
+    <string name="level2text1">Chocolate</string>
+    <string name="level2text2">Package</string>
+    <string name="level2text3">Bread</string>
+    <string name="level2text4">Lamp</string>
+    <string name="level2text5">Ice cream</string>
+    <string name="level2text6">Telephone</string>
+    <string name="level2text7">Ketchup</string>
+    <string name="level2text8">Wrench</string>
+    <string name="level2text9">Milk</string>
+    <string name="level2text10">Plastic cup</string>
+    <string name="level2text11">Cactus</string>
+    <string name="level2text12">Pen</string>
+    <string name="level2text13">French fries</string>
+    <string name="level2text14">Boots</string>
+    <string name="level2text15">Avocado</string>
+    <string name="level2text16">Plans</string>
+    <string name="level2text17">Grape</string>
+    <string name="level2text18">Umbrella</string>
+//__________________________________________________
+    <string name="level3text1">Earth</string>
+    <string name="level3text2">Martian</string>
+
+
+
+
+</resources>
